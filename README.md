@@ -1,6 +1,6 @@
 # A Long Dark History Of Nation State Hacking
 
-Governments are hacking each other at an alarming rate.  This project is designed to cover and bring awareness to this issue of Nation State hacking by keeping a record of the events and their impact.  After-all we, the individuals are the ones being effected by this madness. 
+Governments are hacking each other at an alarming rate.  This project is designed to bring awareness to the issue of Nation State hacking by keeping a centralized record of the events and their impact.  After-all we, the individuals are the ones being effected by this madness. 
 
 ## Contents
 
@@ -60,6 +60,8 @@ Governments are hacking each other at an alarming rate.  This project is designe
 ## 2017
 - [TRITON](https://www.technologyreview.com/2019/03/05/103328/cybersecurity-critical-infrastructure-triton-malware/) - The first Malware designed to kill humans.  Triton may have been created by Iran or [Russia](#Russia).
 - [HBO](https://money.cnn.com/2017/11/21/media/hbo-hack-indictment/index.html) - Ransomeware attack demanding $7.5 Million.
+## 2019
+- [VPN Hacking](https://www.zdnet.com/article/iranian-hackers-have-been-hacking-vpn-servers-to-plant-backdoors-in-companies-around-the-world/) - Attacked IT, Telecommunication, Oil and Gas, Aviation, Government, and Security sectors.
 
 
 ## India
