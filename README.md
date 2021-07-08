@@ -1,6 +1,6 @@
 # A Long Dark History Of Nation State Hacking
 
-Governments are hacking each other at an alarming rate.  This project is designed to bring awareness to the issue of Nation State hacking by keeping a centralized record of the events and their impact.  After-all we, the individuals are the ones being effected by this madness. 
+Governments are hacking each other at an alarming rate.  This project is designed to bring awareness to the issue of Nation State hacking by keeping a centralized record of these incidents and their impact.  Afterall we, the citizens of these countries, are the ones being effected by this madness. 
 
 ## Contents
 
@@ -62,6 +62,8 @@ Governments are hacking each other at an alarming rate.  This project is designe
 
 ### 2011
 - [DDoS on U.S. Banks](https://www.fbi.gov/wanted/cyber/iranian-ddos-attacks) - Iran retaliates for the Stuxnet Worm with DDoS attacks on major U.S. Banks.
+### 2013
+- [U.S. Navy]() - Attack on U.S. Navy
 ## 2017
 - [TRITON](https://www.technologyreview.com/2019/03/05/103328/cybersecurity-critical-infrastructure-triton-malware/) - The first Malware designed to kill humans.  Triton may have been created by Iran or [Russia](#Russia).
 - [HBO](https://money.cnn.com/2017/11/21/media/hbo-hack-indictment/index.html) - Ransomware attack demanding $7.5 Million.
