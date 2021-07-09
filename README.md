@@ -1,3 +1,5 @@
+<!-- https://attack.mitre.org/groups/ - left off at munuPass -->
+
 # A Long Dark History Of Nation State Hacking
 
 Governments are hacking each other at an alarming rate.  This project is designed to bring awareness to the issue of Nation State hacking by keeping a centralized record of these incidents and their impact.  Afterall we, the citizens of these countries, are the ones being effected by this madness. 
@@ -10,9 +12,11 @@ Governments are hacking each other at an alarming rate.  This project is designe
 - [India](#India)
 - [Iran](#Iran)
 - [Israel](#Israel)
+- [Lebanon](#Lebanon)
 - [Nigeria](#Nigeria)
 - [North Korea](#North-Korea)
 - [Pakistan](#Pakistan)
+- [South Korea](#South-Korea)
 - [Russia](#Russia)
 - [Ukraine](#Ukraine)
 - [United States](#United-States)
@@ -21,7 +25,7 @@ Governments are hacking each other at an alarming rate.  This project is designe
 
 
 ## China
-**Aliases:** 
+**Aliases:** admin@338, APT2, APT3, APT10, APT12, APT15, APT17, APT19, APT30, APT41, Axiom, Beijing Group, Black Vine, Bronze Butler, Bronze President, Buckeye, Chimera, Cicada, Codoso, CVNX, Deep Panda, Deputy Dog, DynCalc, Elderwood, Gothic Panda, Group 72, Hogfish, IndigoZebra, IXESHE, Ke3chang, KungFu Kittens, menuPass, Mirage, MSUpdater, Moafee, Mofang, Mustang Panda, Naikon, NEODYMIUM, Night Dragon, Numbered Panda, PittyTiger, PinkPanther, Pirpi, Playful Dragon, POTASSIUM, Putter Panda, Red Apollo, REDBALDKNIGHT, RedDelta, RoyalAPT, Shell Crew, Sneaky Panda, Stone Panda, Sunshop Group, TA416, Threat Group-0110, Tick, UPS Team, Vixen Panda, WebMasters, Wicked Panda
 
 ### 2008 
 - [Indian National Security Council and National Informatics Centre](https://web.archive.org/web/20110826225336/http://articles.timesofindia.indiatimes.com/2008-05-05/india/27760718_1_cyber-warfare-government-networks-china)
@@ -52,13 +56,15 @@ Governments are hacking each other at an alarming rate.  This project is designe
 - [Ivanti Pulse Connect Secure](https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html) - At least five federal civilian agencies appear to have been breached in hack directed at the US government.
 - [Air India](https://www.forbes.com/sites/thomasbrewster/2021/06/10/are-the-fbis-most-wanted-chinese-spies-hacking-the-airline-industry/?sh=5e969346237d) - 4.5 Million customer records stolen including, passport, credit card details, birthdays and ticket information. 
 
+	<!-- Operation Wocao -->
+
 
 ## Gaza
 **Aliases:** 
 
 
 ## Iran
-**Aliases:** Ajax Security, APT35, Charming Kitten, NewsBeef, Phosphorus, Rocket Kitten, TA453, Turk Black Hat, Sea Turtle.
+**Aliases:** Ajax Security, APT34, APT35, Charming Kitten, Cleaver, Cobalt Gypsy, Colbalt Illusion, CopyKittens, Earth Vetala, Elfin, Fox Kitten, GALLIUM, Heliux Kitten, HOLMIUM, ITG18, IRN2, Leafminer, Magic Hound, Mercury, MuddyWater, NewsBeef, Newscaster,  OilRig, Parasite, Phosphorus, Pioneer Kitten, Raspite, Rocket Kitten, Sea Turtle TA453, Seedworm, Static Kitten, TEMP.Zagros, Turk Black Hat, UNC757.
 
 ### 2011
 - [DDoS on U.S. Banks](https://www.fbi.gov/wanted/cyber/iranian-ddos-attacks) - Iran retaliates for the Stuxnet Worm with DDoS attacks on major U.S. Banks.
@@ -77,9 +83,11 @@ Governments are hacking each other at an alarming rate.  This project is designe
 ## 2020
 - [U.S. Navy Google Account](https://www.forbes.com/sites/thomasbrewster/2020/07/16/big-leak-reveals-iran-targeting-us-military-with-super-speedy-google-account-hacks/?sh=54f4233c75c9) - Stole 40 gigabytes
 
+<!-- Operation Wilted Tulip,  -->
+
 
 ## India
-**Aliases:** 
+**Aliases:** Chinastrats, Dropping Elephant, Hangover Group, Monsoon, Patchwork
 
 
 ## Israel
@@ -93,7 +101,7 @@ Governments are hacking each other at an alarming rate.  This project is designe
 
 
 ## Lebanon
-**Aliases:** Dancing Salome, Lebanese Cedar, Malware reusers, Reuse team, Volatile Cedar
+**Aliases:** Dark Caracal, Dancing Salome, Lebanese Cedar, Malware reusers, Reuse team, Volatile Cedar
 ### 2020 
 - [250 Servers](https://www.zdnet.com/article/hezbollahs-cyber-unit-hacked-into-telecoms-and-isps/) - Attacked at least 250 servers at Telco Operators and Internet Service Providers in the U.S., The U.K., Israel, Egypt, Saudi Arabia, Lebanon, Jordan, the Palestinian Authority, and the U.A.E.
 
@@ -104,7 +112,7 @@ Governments are hacking each other at an alarming rate.  This project is designe
 
 
 ## North Korea
-**Aliases:** Lazarus Group, APT38, Gods Apostles, Gods Disciples, Guardians of Peace, ZINC, Whois Team, Hidden Cobra
+**Aliases:** APT38, Black Banshee, Gods Apostles, Gods Disciples, Guardians of Peace, Hidden Cobra, Kimsuky, Lazarus Group, Nickle Academy, Velvet Chollima, Whois Team, ZINC
 
 
 ### 2013
@@ -114,9 +122,13 @@ Governments are hacking each other at an alarming rate.  This project is designe
 - [WannaCry](https://usa.kaspersky.com/resource-center/threats/ransomware-wannacry) - Using NSA tool Eternal Blue, WannaCry infected 230,000 computers in 150 countries causing an estimated $4 billion in damages.
 
 
-
 ## Pakistan
-**Aliases:**
+**Aliases:** Gorgon Group
+
+
+
+## South Korea
+**Aliases:** Darkhotel, DUBNIUM, 	Higaisa
 
 
 ## Ukraine
@@ -129,13 +141,16 @@ Governments are hacking each other at an alarming rate.  This project is designe
 ### 2008
 - [Stuxnet](https://www.washingtonpost.com/world/national-security/stuxnet-was-work-of-us-and-israeli-experts-officials-say/2012/06/01/gJQAlnEy6U_story.html) - Joint effort with [Israel](#Israel) to take down Iranian Nuclear Facility.  
 
+### 2016
+- [Operation Glowing Symphony](https://darknetdiaries.com/episode/50/) - U.S. Joint Task Force attacks ISIS, bringing down websites, networks, deleting keys to crypto wallets, changing PayPal passwords, and deleting emails.
+
 ### 2020
 
 - [DDoS on Iran](https://www.cpomagazine.com/cyber-security/massive-ddos-attack-shuts-down-irans-internet-tehran-blames-washington/) - Suspected but not confirmed.  Iran accused Washington of DDoS Attack lasting between 1 - 8 hours. 
   
 
 ## Russia
-**Aliases:** Fancy Bear, Cozy Bear, APT28, Pawn Storm, Sofacy Group, Sednit, STRONTIUM, Tsar Team, Threat Group-4127, Grizzly Steppe.
+**Aliases:**   APT28, Beserk Bear, Cozy Bear, CozyDuke, Dark Halo, Dragonfly 2.0, The Dukes, Dymalloy, Fancy Bear, Grizzly Steppe, Group 74, Iron Liberty, NOBELIUM, Pawn Storm, Sednit, SNAKEMACKEREL, StellarParticle, STRONTIUM, Sofacy Group, Swallowtail, Threat Group-4127, Tsar Team, UNC2452, YTTRIUM.
 
 ### 2007
 - [Attacks on Estonia](https://www.bbc.com/news/39655415) - DDoS attacks carried out on Estonian banks, media outlets and government bodies.  Russian Government suspected but not confirmed.
@@ -158,7 +173,7 @@ Governments are hacking each other at an alarming rate.  This project is designe
 
 
 ## Vietnam
-**Aliases:** OceanLotus, APT32
+**Aliases:** APT32, APT-C-00, OceanLotus, SeaLotus
 
 ### 2020
 - [China's Ministry of Emergency Management and Government of Wuhan](https://www.reuters.com/article/us-health-coronavirus-cyber-vietnam-idUSKCN2241C8) - It's believed that in response to coronavirus, the Vietnamese Government attempted to hack into China's Ministry of Emergency Management and the Government of Wuhan in an attempt to find out more about COVID19 in an attempt to combat the virus. It is not clear if the attempts were successful or not. 
