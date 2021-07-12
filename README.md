@@ -19,6 +19,7 @@ Governments are hacking each other at an alarming rate, critical infrastructure 
 - [Ukraine](#Ukraine)
 - [United Arab Emirates](#United-Arab-Emirates)
 - [United States](#United-States)
+- [Uzbekistan](#Uzbekistan)
 - [Vietnam](#Vietnam)
 
 
@@ -47,6 +48,8 @@ Governments are hacking each other at an alarming rate, critical infrastructure 
 - [Equifax](https://www.csoonline.com/article/3444488/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html) - Hundreds of millions of records stolen, Equifax spent $1.4 Billion in wake of incident. 
 ### 2018 
 - [Marriott data breach](https://www.csoonline.com/article/3441220/marriott-data-breach-faq-how-did-it-happen-and-what-was-the-impact.html) - Hundreds of millions of customer records, including credit card and passport numbers exfiltrated by attackers.
+### 2019
+- [Operation Wocao – China’s Hidden Hackers Group Using Custom Hacking Tools to Attack More Than 10 High Profile Countries](https://gbhackers.com/operation-wocao/)
 ### 2020 
 - [Taiwan Semiconductor Industry](https://web.archive.org/web/20200813041037/https://www.wired.com/story/chinese-hackers-taiwan-semiconductor-industry-skeleton-key/)
 - [The Vatican](https://edition.cnn.com/2020/07/29/world/vatican-china-hacking-burke/index.html)
@@ -116,16 +119,24 @@ Governments are hacking each other at an alarming rate, critical infrastructure 
 
 
 ## Nigeria
-**Aliases:** SilverTerrier
+**Aliases:** SilverTerrier, Unit 42
+### 2018
+- [Nigerian Cybercrime 'Group' Has 400 Malicious Actors](https://www.securityweek.com/nigerian-cybercrime-group-has-400-malicious-actors) - FBI's Internet Crime Complaint Center (IC3), indicates that 20,373 victims reported BEC losses of $1.298 billion to 65,116 victims.
 
 
 
 ## North Korea
-**Aliases:** APT38, Black Banshee, Gods Apostles, Gods Disciples, Guardians of Peace, Hidden Cobra, Kimsuky, Lazarus Group, Nickle Academy, Sharpshooter, Stolen Pencil, Velvet Chollima, Whois Team, ZINC
+**Aliases:** APT37, APT38, Black Banshee, Gods Apostles, Gods Disciples, Guardians of Peace, Hidden Cobra, Kimsuky, Lazarus Group, Nickle Academy, Ricochet Chollima, Sharpshooter, Stolen Pencil, Velvet Chollima, Whois Team, ZINC
 
 
-### 2013
-- [Bangladesh Bank Heist](https://www.yahoo.com/news/exclusive-bangladesh-probes-2013-hack-links-central-bank-201427456--sector.html?ref=gs) - Attempted to steal $951 Million from Bangladesh Banking system using the SWIFT system.  Successfully made it out with $81 Million.
+### 2014
+
+- November: [North Korean programmer charged in Sony hack, WannaCry attack](https://www.pbs.org/newshour/nation/north-korean-programmer-charged-in-sony-hack-wannacry-attack)
+
+
+### 2016
+- February: [Bangladesh Bank Heist](https://www.yahoo.com/news/exclusive-bangladesh-probes-2013-hack-links-central-bank-201427456--sector.html?ref=gs) - Attempted to steal $951 Million from Bangladesh Banking system using the SWIFT system.  Successfully made it out with $81 Million.
+
 
 ### 2017
 - [WannaCry](https://usa.kaspersky.com/resource-center/threats/ransomware-wannacry) - Using NSA tool Eternal Blue, WannaCry infected 230,000 computers in 150 countries causing an estimated $4 billion in damages.
@@ -139,6 +150,16 @@ Governments are hacking each other at an alarming rate, critical infrastructure 
 ## South Korea
 **Aliases:** Darkhotel, DUBNIUM, Higaisa
 
+### 2007
+- [DarkHotel hackers targets company bosses in hotel rooms](https://www.bbc.com/news/technology-30001424)
+
+### 2020
+
+- March: [DarkHotel hackers use VPN zero-day to breach Chinese government agencies](https://www.zdnet.com/article/darkhotel-hackers-use-vpn-zero-day-to-compromise-chinese-government-agencies/) - Targets included government agencies in Beijing and Shanghai and Chinese diplomatic missions abroad.  Attacks are believed to be related to the current coronavirus (COVID-19) outbreak.
+
+- March: [Elite hackers target WHO as coronavirus cyberattacks spike](https://www.reuters.com/article/us-health-coronavirus-who-hack-exclusive/exclusive-elite-hackers-target-who-as-coronavirus-cyberattacks-spike-idUSKBN21A3BN) - Attacks are believed to be related to the current coronavirus (COVID-19) outbreak.  DarkHotel is trying to get insights into how the Chinese government handled the outbreak.
+
+
 
 ## Ukraine
 **Aliases:**
@@ -146,6 +167,9 @@ Governments are hacking each other at an alarming rate, critical infrastructure 
 
 ## United Arab Emirates 
 **Aliases:** Stealth Falcon
+
+### 2015
+- November: [Keep Calm and (Don’t) Enable Macros - A New Threat Actor Targets UAE Dissidents](https://citizenlab.ca/2016/05/stealth-falcon/)
 
 
 ## United States
@@ -160,10 +184,18 @@ Governments are hacking each other at an alarming rate, critical infrastructure 
 ### 2020
 
 - [DDoS on Iran](https://www.cpomagazine.com/cyber-security/massive-ddos-attack-shuts-down-irans-internet-tehran-blames-washington/) - Suspected but not confirmed.  Iran accused Washington of DDoS Attack lasting between 1 - 8 hours. 
+
+
+## Uzbekistan
+**Aliases:** SandCat
+
+### 2019
+- October: [Kaspersky finds Uzbekistan hacking op](https://arstechnica.com/information-technology/2019/10/kaspersky-finds-uzbekistan-hacking-opbecause-they-used-kaspersky-av/)
+
   
 
 ## Russia
-**Aliases:**   APT28, Beserk Bear, Belugasturgeon, BlackEnergy, Cozy Bear, CozyDuke, Dark Halo, Dragonfly 2.0, The Dukes, Dymalloy, Electrium, Fancy Bear, Grizzly Steppe, Group 74, Group 88, Iron Liberty, Iron Viking, Krypton, NOBELIUM, Pawn Storm, Quedagh, Sandworm, Sednit, Snake, SNAKEMACKEREL, StellarParticle, STRONTIUM, Sofacy Group, Swallowtail, Telebots, TEMP.Veles, Threat Group-4127, Tsar Team, Turla, UNC2452, Venomous Bear, Voodo Bear, Waterbug, WhiteBear, Xenotime, YTTRIUM.
+**Aliases:**   APT28, Beserk Bear, Belugasturgeon, BlackEnergy, Cozy Bear, CozyDuke, Dark Halo, Dragonfly 2.0, The Dukes, Dymalloy, Electrium, Fancy Bear, Fin7, Grizzly Steppe, Group 74, Group 88, Iron Liberty, Iron Viking, Krypton, NOBELIUM, Pawn Storm, Quedagh, Sandworm, Sednit, Snake, SNAKEMACKEREL, StellarParticle, STRONTIUM, Sofacy Group, Swallowtail, Telebots, TEMP.Veles, Threat Group-4127, Tsar Team, Turla, UNC2452, Venomous Bear, Voodo Bear, Waterbug, WhiteBear, Xenotime, YTTRIUM.
 
 ### 2007
 - [Attacks on Estonia](https://www.bbc.com/news/39655415) - DDoS attacks carried out on Estonian banks, media outlets and government bodies.  Russian Government suspected but not confirmed.
