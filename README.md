@@ -1,8 +1,6 @@
-<!-- https://attack.mitre.org/groups/ - left off at munuPass -->
-
 # A Long Dark History Of Nation State Hacking
 
-Governments are hacking each other at an alarming rate.  This project is designed to bring awareness to the issue of Nation State hacking by keeping a centralized record of these incidents and their impact.  Afterall we, the citizens of these countries, are the ones being effected by this madness. 
+Governments are hacking each other at an alarming rate, critical infrastructure is no longer off limits.  This project is designed to bring awareness to the issue of Nation State hacking by keeping a centralized record of these incidents and their impact.  Afterall we, the citizens of these countries, are going to be the ones being effected by this madness. 
 
 ## Contents
 
@@ -19,13 +17,14 @@ Governments are hacking each other at an alarming rate.  This project is designe
 - [South Korea](#South-Korea)
 - [Russia](#Russia)
 - [Ukraine](#Ukraine)
+- [United Arab Emirates](#United-Arab-Emirates)
 - [United States](#United-States)
 - [Vietnam](#Vietnam)
 
 
 
 ## China
-**Aliases:** admin@338, APT2, APT3, APT10, APT12, APT15, APT17, APT19, APT30, APT41, Axiom, Beijing Group, Black Vine, Bronze Butler, Bronze President, Buckeye, Chimera, Cicada, Codoso, CVNX, Deep Panda, Deputy Dog, DynCalc, Elderwood, Gothic Panda, Group 72, Hogfish, IndigoZebra, IXESHE, Ke3chang, KungFu Kittens, menuPass, Mirage, MSUpdater, Moafee, Mofang, Mustang Panda, Naikon, NEODYMIUM, Night Dragon, Numbered Panda, PittyTiger, PinkPanther, Pirpi, Playful Dragon, POTASSIUM, Putter Panda, Red Apollo, REDBALDKNIGHT, RedDelta, RoyalAPT, Shell Crew, Sneaky Panda, Stone Panda, Sunshop Group, TA416, Threat Group-0110, Tick, UPS Team, Vixen Panda, WebMasters, Wicked Panda
+**Aliases:** admin@338, APT2, APT3, APT10, APT12, APT15, APT17, APT19, APT27, APT30, APT31, APT41, Axiom, Beijing Group, Black Vine, Blackfly, Bronze Butler, Bronze President, Bronze Union, Buckeye, Chimera, Cicada, Codoso, CVNX, Deep Panda, Deputy Dog, DynCalc, Elderwood, Emissary Panda, Gothic Panda, Group 72, Hogfish, IndigoZebra, Iron Tiger, IXESHE, Ke3chang, KungFu Kittens, LuckyMouse, menuPass, Mirage, MSUpdater, Moafee, Mofang, Mustang Panda, Naikon, NEODYMIUM, Night Dragon, Numbered Panda, PinkPanther, Pirpi, PittyTiger, Playful Dragon, POTASSIUM, Putter Panda, Red Apollo, REDBALDKNIGHT, RedDelta, Rocke, RoyalAPT, Scarlet Mimic, Shell Crew, Sneaky Panda, Stone Panda, Suckfly, Sunshop Group, TA416, TA459, Threat Group-0110, Threat Group-3390, Tick, UPS Team, Vixen Panda, WebMasters, Wicked Panda, Winnti Group, Zirconium
 
 ### 2008 
 - [Indian National Security Council and National Informatics Centre](https://web.archive.org/web/20110826225336/http://articles.timesofindia.indiatimes.com/2008-05-05/india/27760718_1_cyber-warfare-government-networks-china)
@@ -64,7 +63,7 @@ Governments are hacking each other at an alarming rate.  This project is designe
 
 
 ## Iran
-**Aliases:** Ajax Security, APT34, APT35, Charming Kitten, Cleaver, Cobalt Gypsy, Colbalt Illusion, CopyKittens, Earth Vetala, Elfin, Fox Kitten, GALLIUM, Heliux Kitten, HOLMIUM, ITG18, IRN2, Leafminer, Magic Hound, Mercury, MuddyWater, NewsBeef, Newscaster,  OilRig, Parasite, Phosphorus, Pioneer Kitten, Raspite, Rocket Kitten, Sea Turtle TA453, Seedworm, Static Kitten, TEMP.Zagros, Turk Black Hat, UNC757.
+**Aliases:** Ajax Security, APT34, APT35, Charming Kitten, Cleaver, Cobalt Dickens Cobalt Gypsy, Colbalt Illusion, CopyKittens, Earth Vetala, Elfin, Fox Kitten, GALLIUM, Heliux Kitten, HOLMIUM, ITG18, IRN2, Leafminer, Magic Hound, Mercury, MuddyWater, NewsBeef, Newscaster,  OilRig, Parasite, Phosphorus, Pioneer Kitten, Raspite, Rocket Kitten, Sea Turtle TA453, Seedworm, Silent Librarian, Static Kitten, TA407, TEMP.Zagros, Turk Black Hat, UNC757.
 
 ### 2011
 - [DDoS on U.S. Banks](https://www.fbi.gov/wanted/cyber/iranian-ddos-attacks) - Iran retaliates for the Stuxnet Worm with DDoS attacks on major U.S. Banks.
@@ -87,7 +86,7 @@ Governments are hacking each other at an alarming rate.  This project is designe
 
 
 ## India
-**Aliases:** Chinastrats, Dropping Elephant, Hangover Group, Monsoon, Patchwork
+**Aliases:** Chinastrats, Dropping Elephant, Hangover Group, Monsoon, Patchwork, Rattlesnake, Sidewinder, T-APT-04
 
 
 ## Israel
@@ -107,12 +106,12 @@ Governments are hacking each other at an alarming rate.  This project is designe
 
 
 ## Nigeria
-**Aliases:** 
+**Aliases:** SilverTerrier
 
 
 
 ## North Korea
-**Aliases:** APT38, Black Banshee, Gods Apostles, Gods Disciples, Guardians of Peace, Hidden Cobra, Kimsuky, Lazarus Group, Nickle Academy, Velvet Chollima, Whois Team, ZINC
+**Aliases:** APT38, Black Banshee, Gods Apostles, Gods Disciples, Guardians of Peace, Hidden Cobra, Kimsuky, Lazarus Group, Nickle Academy, Sharpshooter, Stolen Pencil, Velvet Chollima, Whois Team, ZINC
 
 
 ### 2013
@@ -128,11 +127,15 @@ Governments are hacking each other at an alarming rate.  This project is designe
 
 
 ## South Korea
-**Aliases:** Darkhotel, DUBNIUM, 	Higaisa
+**Aliases:** Darkhotel, DUBNIUM, Higaisa
 
 
 ## Ukraine
 **Aliases:**
+
+
+## United Arab Emirates 
+**Aliases:** Stealth Falcon
 
 
 ## United States
@@ -150,7 +153,7 @@ Governments are hacking each other at an alarming rate.  This project is designe
   
 
 ## Russia
-**Aliases:**   APT28, Beserk Bear, Cozy Bear, CozyDuke, Dark Halo, Dragonfly 2.0, The Dukes, Dymalloy, Fancy Bear, Grizzly Steppe, Group 74, Iron Liberty, NOBELIUM, Pawn Storm, Sednit, SNAKEMACKEREL, StellarParticle, STRONTIUM, Sofacy Group, Swallowtail, Threat Group-4127, Tsar Team, UNC2452, YTTRIUM.
+**Aliases:**   APT28, Beserk Bear, Belugasturgeon, BlackEnergy, Cozy Bear, CozyDuke, Dark Halo, Dragonfly 2.0, The Dukes, Dymalloy, Electrium, Fancy Bear, Grizzly Steppe, Group 74, Group 88, Iron Liberty, Iron Viking, Krypton, NOBELIUM, Pawn Storm, Quedagh, Sandworm, Sednit, Snake, SNAKEMACKEREL, StellarParticle, STRONTIUM, Sofacy Group, Swallowtail, Telebots, TEMP.Veles, Threat Group-4127, Tsar Team, Turla, UNC2452, Venomous Bear, Voodo Bear, Waterbug, WhiteBear, Xenotime, YTTRIUM.
 
 ### 2007
 - [Attacks on Estonia](https://www.bbc.com/news/39655415) - DDoS attacks carried out on Estonian banks, media outlets and government bodies.  Russian Government suspected but not confirmed.
@@ -165,7 +168,7 @@ Governments are hacking each other at an alarming rate.  This project is designe
 - [NotPetya](https://www.washingtonpost.com/world/national-security/russian-military-was-behind-notpetya-cyberattack-in-ukraine-cia-concludes/2018/01/12/048d8506-f7ca-11e7-b34a-b85626af34ef_story.html) - Attack looks like it was directed at Ukraine however spread to many countries and some claim it was the most expensive cyber attack in history amounting in [$10 Billion](https://darknetdiaries.com/transcript/54/) in losses. 
 - [TRITON](https://www.technologyreview.com/2019/03/05/103328/cybersecurity-critical-infrastructure-triton-malware/) - The first Malware designed to kill humans.  Triton may have been created by Russia or [Iran](#Iran).
 ### 2018
-- [Tokyo Olympics](https://www.bbc.com/news/technology-54600098) - After being kicked out of the Olympics for steriod use the GRU retaliated by hacking the 2018 Winter Olympics.
+- [Tokyo Olympics](https://www.bbc.com/news/technology-54600098) - After being kicked out of the Olympics for exessive steriod use the GRU retaliated by hacking the 2018 Winter Olympics.
 
 ### 2020
 - [Solar Winds](https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-07-04/) - Breaching the company Solar Winds allowed the Russians to install malware and get it pushed to 18,000 organizations worldwide leaving all of the infected vulnerable.  
