@@ -88,6 +88,16 @@ Governments are hacking each other at an alarming rate, critical infrastructure 
 ## India
 **Aliases:** Chinastrats, Dropping Elephant, Hangover Group, Monsoon, Patchwork, Rattlesnake, Sidewinder, T-APT-04
 
+### 2010
+- [Operation Hangover: India’s three-year silent cyber war on Pakistan](https://archive.pakistantoday.com.pk/2013/05/21/operation-hangover-indias-three-year-silent-cyber-war-on-pakistan/)
+
+### 2015
+- [Indian Hacker Group “Dropping Elephant” Involved in Multiple Attacks on China](https://www.pcquest.com/indian-hacker-group-dropping-elephant-involved-in-multiple-attacks-on-china/)
+
+### 2021 
+- [A Deep Dive Into Patchwork APT Group](https://cybleinc.com/2021/01/20/a-deep-dive-into-patchwork-apt-group/)
+
+
 
 ## Israel
 **Aliases:** Unit 8200
