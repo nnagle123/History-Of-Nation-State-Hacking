@@ -54,9 +54,11 @@ Governments are hacking each other at an alarming rate, critical infrastructure 
 - [Taiwan Semiconductor Industry](https://web.archive.org/web/20200813041037/https://www.wired.com/story/chinese-hackers-taiwan-semiconductor-industry-skeleton-key/)
 - [The Vatican](https://edition.cnn.com/2020/07/29/world/vatican-china-hacking-burke/index.html)
 ### 2021 
+- [Halfnium Microsoft Hack](https://www.theguardian.com/world/2021/jul/19/what-is-the-hafnium-microsoft-hack-and-why-has-the-uk-linked-it-to-china) - Using a Microsoft’s Exchange zero day Halfnium was able to access tens of thousands of organizations around the world. 
 - [200 Companies in Japan](https://www.japantimes.co.jp/news/2021/04/20/national/chinese-military-japan-cyberattacks/)
 - [Ivanti Pulse Connect Secure](https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html) - At least five federal civilian agencies appear to have been breached in hack directed at the US government.
 - [Air India](https://www.forbes.com/sites/thomasbrewster/2021/06/10/are-the-fbis-most-wanted-chinese-spies-hacking-the-airline-industry/?sh=5e969346237d) - 4.5 Million customer records stolen including, passport, credit card details, birthdays and ticket information. 
+- [China-linked APT31 targets Russia for the first time](https://securityaffairs.co/wordpress/120796/apt/china-linked-apt31-targets-russia-for-the-first-time.html) - Using NSA Hacking tool EpMe, APT31 launches spearfishing attack to targets in Mongolia, Belarus, Canada, the United States, and Russia.
 
 	<!-- Operation Wocao -->
 
@@ -128,6 +130,8 @@ Governments are hacking each other at an alarming rate, critical infrastructure 
 ## North Korea
 **Aliases:** APT37, APT38, Black Banshee, Gods Apostles, Gods Disciples, Guardians of Peace, Hidden Cobra, Kimsuky, Lazarus Group, Nickle Academy, Ricochet Chollima, Sharpshooter, Stolen Pencil, Velvet Chollima, Whois Team, ZINC
 
+### 2013
+- September: [Kimsuky Operation](https://securelist.com/the-kimsuky-operation-a-north-korean-apt/57915/) - Hacks on The Sejong Institute, Korea Institute For Defense Analyses (KIDA), Ministry of Unification, and Hyundai Merchant Marine in South Korea.
 
 ### 2014
 
